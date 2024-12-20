@@ -127,7 +127,7 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 &nbsp;
-<a href="https://t.me/LivingOnTech" target="_blank">
+<a href="https://t.me/avizitRX" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>  
 &nbsp;
