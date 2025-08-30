@@ -7,7 +7,7 @@
 <br>  
   
 
-- 🔭 I’m currently working on <b>my Thesis</b>
+- 🔭 I’m currently working on <b>at Soulee Limited</b>
   
 
 - 🌱 I’m currently learning <b>AI and ML</b>  
@@ -33,6 +33,7 @@
 <a href="https://pub.dev/packages/provider" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Provider" height="50" title="Provider" /></a>
 <a href="https://pub.dev/packages/get" target="_blank"><img style="margin: 10px" src="https://github.com/avizitRX/avizitRX/blob/main/icons/getx_icon.png" alt="GetX" height="50" title="GetX" /></a>
 <a href="https://pub.dev/packages/flutter_bloc" target="_blank"><img style="margin: 10px" src="https://github.com/avizitRX/avizitRX/blob/main/icons/bloc_logo.webp" alt="Bloc" height="50" title="Bloc" /></a>
+<a href="https://riverpod.dev" target="_blank"><img style="margin: 10px" src="https://github.com/avizitRX/avizitRX/blob/main/icons/riverpod_logo.png" alt="Riverpod" height="50" title="Riverpod" /></a>
 </div>  
 
 
