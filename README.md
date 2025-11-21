@@ -7,7 +7,7 @@
 <br>  
   
 
-- 🔭 I’m currently working on <b>at Soulee Limited</b>
+- 🔭 I’m currently working on at <b>Betopia Group</b>
   
 
 - 🌱 I’m currently learning <b>AI and ML</b>  
